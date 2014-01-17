@@ -11,8 +11,7 @@ them!". With Stylish plus these stylesheets, you can surf in peace!
 Credits
 -------
 
-Author: Jamison Bryant
-Website: http://jamisonbryant.com
+Written by Jamison Bryant (http://jamisonbryant.com)
 
 License
 -------
